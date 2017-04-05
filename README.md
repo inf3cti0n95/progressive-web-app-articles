@@ -5,4 +5,6 @@ Collection of Articles on Progressive Web App
 
 [ What, Exactly, Makes Something A Progressive Web App? ](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/) - [Alex Russell @slightlyoff](https://github.com/slightlyoff)
 
-[ Progressive Web App ](https://developers.google.com/web/progressive-web-apps/checklist)
+[ Getting started with progressive Web Apps ](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) - [ Addy Osmani @addyosmani ](https://github.com/addyosmani)
+
+[ Progressive Web App Checklist ](https://developers.google.com/web/progressive-web-apps/checklist)
