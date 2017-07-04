@@ -19,3 +19,4 @@ Collection of Articles on Progressive Web App
 
 [ Instant Loading Web Apps with an Application Shell Architecture ](https://developers.google.com/web/updates/2015/11/app-shell)
 
+[ Progressive Web App: A New Way to Experience Mobile - Flipkart](http://tech-blog.flipkart.net/2015/11/progressive-web-app/)
